@@ -9,7 +9,7 @@ to encode/decode simple length-delimited strings. This library aims to be:
 
 - FAST;
 - easy to use;
-- elegant.
+- elegant..
 
 On x86, the library does runtime feature detection. The first time it's called,
 the library will determine the appropriate encoding/decoding routines for the
